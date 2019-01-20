@@ -72,4 +72,4 @@ def NeuralNetwork(X,Y,no_of_iteration,count=False):
 
 NeuralNetwork(X,Y,20,count=True)
 print(parameters)
-print("gangotrinvents"
+print("gangotrinvents")
